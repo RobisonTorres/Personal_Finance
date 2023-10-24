@@ -1,6 +1,0 @@
-
-
-
-def hello():
-    return 'hello'
-
