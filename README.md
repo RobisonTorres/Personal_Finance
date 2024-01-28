@@ -15,7 +15,7 @@ This Personal Budget is composed of six different plans, each addressing differe
 5. Graphic Categories - Dynamic graphical representation of different categories.
 6. Graphic Annual - Dashboard of all relevant information for the entire year.
 
-* Note: I prefer using only the Balance and Graphic Annual plans for easier navigation. The other ones are kept hidden and serve as reference. For that reason I will explain how the "Balance & Tracking" works.
+* Note: I prefer using only the Balance and Graphic Annual plans for easier navigation. The other ones are kept hidden and serve as reference. For that reason I will only explain how the "Balance & Tracking" works.
 
 ## Usage
 
