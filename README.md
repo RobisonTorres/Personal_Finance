@@ -15,14 +15,14 @@ This Personal Budget is composed of six different plans, each addressing differe
 5. Graphic Categories - Dynamic graphical representation of different categories.
 6. Graphic Annual - Dashboard of all relevant information for the entire year.
 
-* Note: I prefer using only the Balance and Graphic Annual plans for easier navigation. The other ones are kept hidden and serve as reference. 
+* Note: I prefer using only the Balance and Graphic Annual plans for easier navigation. The other ones are kept hidden and serve as reference. For that reason I will explain how the "Balance & Tracking" works.
 
 ## Usage
 
 Using this spreadsheet is very straightforward:
 
 1. Open the Excel Personal Budget file.
-2. Navigate to the plan "Data Validation" and set the names of the categories to your preference.
+2. Navigate to the plan "Data Validation" and set the names of the categories to your preference, and then go to "Balance & Tracking".
 3. The "Balance & Tracking" plan is composed of there tables and one graphic, all of them are connected:
 
     * The first table is organized by month. Select the desired month in cell B2, and below, you'll find information on Expenses, Expenses/Income ratio, and Balance for that month. Additionally, it displays the balance for the entire year, regardless of the chosen month.
