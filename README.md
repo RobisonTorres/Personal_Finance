@@ -2,18 +2,19 @@
 
 ## A simple Excel spreadsheet to help control personal finance.
 
-I decided to create this spreadsheet because I was having trouble paying my bills. Additionally, the fact that I didn't know where my money was going, always intrigued me.
+I decided to create this spreadsheet because I had no financial organization. Every month, I could barely pay my bills, and I didn't know where my money was going.
 
 ## Features
 
-This Personal Budget is composed of six different sheets, each addressing different aspects:
+This Personal Budget is composed of seven different sheets, each addressing different aspects:
 
 1. Data Validation - Sets the names of categories.
 2. Balance & Tracking - Records all financial operations.
 3. Net Salary - Stores all the values related to Income, Deductions, and Investments, divided by months.
 4. Expenses - Stores all the values related to Expenses, categorized and divided by months.
 5. Graphic Categories - Dynamic graphical representation of different categories.
-6. Graphic Annual - Dashboard of all relevant information for the entire year.
+6. Goals - Sets the financial goals to be achieved and their progress. 
+7. Graphic Annual - Dashboard of all relevant information for the entire year.
 
 ## Usage
 
