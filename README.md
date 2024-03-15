@@ -24,7 +24,7 @@ Using this spreadsheet is very straightforward:
 2. Navigate to the sheet "Data Validation" and set the names of the categories to your preference, once set don't change it anymore to avoid errors. Then go to "Balance & Tracking".
 3. The "Balance & Tracking" sheet is composed of there tables and one graphic, all of them are connected:
 
-    * The first table is organized by month. Select the desired month in cell B2, and below, you'll find information on Expenses, Expenses/Income ratio, and Balance for that month. The Balance in C5 is calculated by subtracting Expense from your Income and then adding the Balance from the previous month. However, January's balance reflects your overall starting point and doesn't include previous months as the system works with complete years. In C6 it displays the balance for the entire year, regardless of the chosen month.
+    * The first table is organized by month. Select the desired month in cell B2, and below, you'll find information on Expenses, Expense to Income ratio, and Balance for that month. The Balance in C5 is calculated by subtracting Expenses from your Income and then adding the Balance from the previous month. January's balance reflects your overall starting point and doesn't include previous months' balance. In cell C6, it displays the balance for the entire year, regardless of the chosen month.
     
     * The graphic shows information about expenses and net salary related to the month select in B2. The graphic can be toggled by selecting the option in cell B3.
 
