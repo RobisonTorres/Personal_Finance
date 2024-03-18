@@ -30,7 +30,7 @@ Using this spreadsheet is very straightforward:
 
     * The Account table provides information about different accounts and their current values. However, the Credit Card account in cell C13 behaves differently due to its two-day cycle. A purchase with the credit card will change the color of cell C13, indicating a payment is due. To make a payment, select 'Payment' and choose 'Credit Card' under 'Operation.' This will reset the value in cell C13 to $0.
 
-    Cell C14 calculates the difference between the total Accounts (C9:C12) and the Balance of the month (B5). This value should be $0, indicating that the sheet aligns with the Accounts.
+    * Cell C14 calculates the difference between the total Accounts (C9:C12) and the Balance of the month (B5). This value should be $0, indicating that the sheet aligns with the Accounts.
 
     * The Tracking table is central to the Personal Budget. Adding a record here automatically updates the tables present in the current sheet and in the other sheets, as well. It's important to note that the date of the operation affects Accounts and the monthly balance differently. Operations dated in the future only affect the current month's balance, while operations dated on or before the current day impact both. That's because future operations don't affect the current Accounts.
 
