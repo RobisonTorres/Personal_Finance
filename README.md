@@ -29,7 +29,7 @@ This spreadsheet is designed to help you easily track your income and expenses.
 
 <br>
 
-![data]()
+![data](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/604d5e48-f129-4893-a640-86654703e22e)
 Data Validation.
 
 ### Tracking Financial Operation (Balance & Tracking Sheet):
