@@ -36,11 +36,6 @@ Data Validation.
 
 Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph that are all ***automatically updated*** based on the information you enter in the Tracking table.
 
-<br>
-
-![Sheet](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/c5acba6f-9b25-4c8e-ba95-9505b9823522)
-Balance & Tracking.
-
 ### Monthly Summary Table:
 
 * Select your desired month from the dropdown menu in cell B2.
@@ -66,6 +61,11 @@ Balance & Tracking.
 * Any entry you add in this table automatically updates the other tables and graphs on the "Balance & Tracking" sheet and in the other sheets as well.
 
 Important Note: The date of the operation affects Accounts and the monthly balance differently. Operations dated in the future only affect the current month's balance, while operations dated on or before the current day impact both.
+
+<br>
+
+![Sheet](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/c5acba6f-9b25-4c8e-ba95-9505b9823522)
+Balance & Tracking.
 
 ## Note 
 
