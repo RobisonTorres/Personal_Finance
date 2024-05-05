@@ -38,7 +38,7 @@ Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph 
 
 <br>
 
-![Sheet]()
+![Sheet](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/c5acba6f-9b25-4c8e-ba95-9505b9823522)
 Balance & Tracking.
 
 ### Monthly Summary Table:
