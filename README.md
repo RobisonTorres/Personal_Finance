@@ -76,3 +76,8 @@ I prefer using only the Balance and Graphic Annual sheets for easier navigation.
 You can create a financial plan by adding operations dated in the future. For example, include financial operations that you know will occur in the coming months (such as salary, bills, trips, and deductions). This way, you can spend your money more wisely.      
 
 For better visualization adjust the zoom and press "Ctrl+F1" for hide the commands.
+
+<br>
+
+![Imagem1](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/bd074ec4-0838-441b-b179-50bb6d781ed8)
+Dashboard.
