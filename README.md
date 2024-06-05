@@ -64,7 +64,7 @@ Important Note: The date of the operation affects Accounts and the monthly balan
 
 <br>
 
-![Balance   Tracking](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/6c19df73-50d5-47bb-a956-9f0f136b0bc9))
+![Balance   Tracking](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/6c19df73-50d5-47bb-a956-9f0f136b0bc9)
 Balance & Tracking.
 
 ## Note 
