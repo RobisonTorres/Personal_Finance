@@ -16,7 +16,7 @@ This Personal Budget is composed of five different sheets, each addressing diffe
 
 ## Download
 
-To download the spreadsheet, click on one of its versions, e.g., "Personal Budget en-us.xlsx", and then click "View raw".
+To download the spreadsheet, click on one of its versions, e.g., "Personal Budget - English.xlsx", and then click "View raw".
 
 ## Usage
 
@@ -64,7 +64,7 @@ Important Note: The date of the operation affects Accounts and the monthly balan
 
 <br>
 
-![Sheet](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/c5acba6f-9b25-4c8e-ba95-9505b9823522)
+![Balance   Tracking](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/6c19df73-50d5-47bb-a956-9f0f136b0bc9))
 Balance & Tracking.
 
 ## Note 
