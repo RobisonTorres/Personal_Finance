@@ -4,6 +4,11 @@
 
 I decided to create this spreadsheet because I lacked financial organization, wanted to establish a financial plan, and needed to track where my money was going.
 
+<br>
+
+![Balance Tracking](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/f0dc92cc-6dfa-4b3e-ab76-78ca17b678b6)
+Balance & Tracking Sheet.
+
 ## Features
 
 This Personal Budget is composed of six different sheets, each addressing different aspects:
@@ -28,18 +33,13 @@ This spreadsheet is designed to help you easily track your income and expenses.
 - Open the Excel Personal Budget file and navigate to the sheet named "Data Validation."
 - In this sheet, set the initial balance you have in each account, and customize the category names according to your spending habits. Important: Once you've set your categories and initial balance, avoid changing them later to prevent errors in the calculations.
 
-<br>
-
-![data](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/604d5e48-f129-4893-a640-86654703e22e)
-Data Validation.
-
 ### 2 - Tracking Financial Operation (Balance & Tracking Sheet):
 
 Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph that are all ***automatically updated*** based on the information you enter in the Tracking table.
 
 ### 2.1 - Monthly Summary Table:
 
-* Select your desired month from the dropdown menu in cell B2.
+* Select the current month from the dropdown menu in cell B2.
 * Below, you'll find information for that specific month, including:
     * Income entered for the month.
     * Total expenses for the month (derived from the Tracking table).
@@ -53,8 +53,9 @@ Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph 
 ### 2.3 - Account Table:
 
 * This table provides an overview of your different accounts (e.g., banking account, savings, credit card).
+* In cell C8, you can select a date to view the account balance for that specific day. By default, the current date (or =TODAY() in Excel) will be used if the cell is left blank.
 * When you record a credit card purchase in the Tracking table, cell C13 will change color to indicate a payment is due (to make a payment, select 'Payment' and choose 'Credit Card' under 'Operation').
-* Cell C14 should ideally show a value of $0, signifying that your accounts are reconciled with the spreadsheet.
+* Cell C14 should ideally display a value of $0, indicating that your accounts are reconciled with the spreadsheet. However, this requires the current month in both the Monthly Summary Table and the Account to match.
 
 ### 2.4 - Tracking Table:
 
@@ -63,11 +64,6 @@ Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph 
 * Tip  - By pressing the 'Tab' key, you can easily switch between fields and create a new row at the end of the table.
 
 ***Important Note***: The date of the operation affects Accounts and the monthly balance differently. Operations dated in the future only affect the current month's balance, while operations dated on or before the current day impact both.
-
-<br>
-
-![Balance   Tracking](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/f0dc92cc-6dfa-4b3e-ab76-78ca17b678b6)
-Balance & Tracking.
 
 ## Note 
 
@@ -78,8 +74,3 @@ I prefer using only the Balance and Graphic Annual sheets for easier navigation.
 You can create a financial plan by adding operations dated in the future. For example, include financial operations that you know will occur in the coming months (such as salary, bills, trips, and deductions). This way, you can spend your money more wisely.      
 
 For better visualization adjust the zoom and press "Ctrl+F1" for hide the commands.
-
-<br>
-
-![Imagem1](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/bd074ec4-0838-441b-b179-50bb6d781ed8)
-Dashboard.
