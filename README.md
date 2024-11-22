@@ -39,7 +39,7 @@ Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph 
 
 ### 2.1 - Monthly Summary Table:
 
-* Select the current month from the dropdown menu in cell B2.
+* In cell B2, the month name will automatically update based on the date put in cell C8.
 * Below, you'll find information for that specific month, including:
     * Income entered for the month.
     * Total expenses for the month (derived from the Tracking table).
