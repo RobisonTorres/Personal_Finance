@@ -6,7 +6,7 @@ I decided to create this spreadsheet because I lacked financial organization, wa
 
 <br>
 
-![Balance Tracking](https://github.com/RobisonTorres/Personal_Finance/assets/69907756/f0dc92cc-6dfa-4b3e-ab76-78ca17b678b6)
+![Personal Budget](https://github.com/user-attachments/assets/3cf1892f-1316-487c-86e5-e138faa9cca9)
 Balance & Tracking Sheet.
 
 ## Features
