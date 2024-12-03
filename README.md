@@ -6,6 +6,9 @@ I created this spreadsheet to improve my financial organization, establish a fin
 
 <br>
 
+![tracking](https://github.com/user-attachments/assets/57421b9f-f576-438d-8505-8cb9f35dafa3)
+Balance & Tracking Sheet.
+
 ## Features
 
 This Personal Budget is composed of six different sheets, each addressing different aspects:
