@@ -4,6 +4,11 @@
 
 I created this spreadsheet to improve my financial organization, establish a financial plan, and monitor where my money was going. My goal was to make it simple and user-friendly, with each financial transaction entered on a single line, ***automatically updating*** all related sheets.
 
+<br>
+
+![Image](https://github.com/user-attachments/assets/3714527b-8185-4038-b30c-48293db23948)
+Balance & Tracking Sheet.
+
 ## Features
 
 This Personal Budget is composed of six different sheets, each addressing different aspects:
