@@ -52,10 +52,9 @@ Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph 
         
 ### 2.3 - Account Table:
 
-* This table provides an overview of your different accounts (e.g., banking account, savings, future debit, credit card).
+* This table provides an overview of your different accounts (e.g., banking account, savings, debt, credit card).
 * In cell C7, you can select a date to view the account balance for that specific day. By default, the current date (or =TODAY() in Excel) will be used if the cell is left blank.
-* Use "Future Debt" for operations that will occur in the future and do not yet have an appropriate account. When the date of the operation arrives, update it to the relevant account (Banks, Cash, or Savings)
-* When you record a credit card purchase in the Tracking table, cell C13 will change color to indicate a payment is due (to make a payment, select 'Payment' and choose 'Credit Card' under 'Operation').
+* When you record a credit card purchase in the Tracking table, cell C13 will change color to indicate a payment is due. To make a payment, select 'Payment' and choose 'Credit Card' under 'Operation.' This also applies to the Debt account.
 
 ### 2.4 - Tracking Table:
 
@@ -65,12 +64,10 @@ Go to the "Balance & Tracking" sheet. This sheet consists of tables and a graph 
 
 ## Note 
 
-***Important***: The date of the operation affects Accounts and the monthly balance differently. Operations dated in the future only affect the current month's balance, while operations dated on or before the current day impact both.
-
-I prefer using only the Balance and Graphic Annual sheets for easier navigation. The other ones are kept hidden and serve only as reference, as they receive automatically their values from the table Tracking and shouldn't be changed directly. 
+***Important***: The date of an operation affects the Accounts and Monthly Balance differently. Operations dated in the future impact only the Monthly Balance for the current month. Operations dated today or earlier affect both Accounts and Monthly Balance. When the values of Accounts and Monthly Balance match, cell C3 will turn green to indicate alignment; otherwise, it will turn orange.
 
 ## Tips 
 
 You can create a financial plan by adding operations dated in the future. For example, include financial operations that you know will occur in the coming months (such as salary, bills, trips, and deductions). This way, you can spend your money more wisely.      
 
-For better visualization adjust the zoom and press "Ctrl+F1" for hide the commands.
+***For better visualization adjust the zoom and press "Ctrl+F1" for hide the commands.***
