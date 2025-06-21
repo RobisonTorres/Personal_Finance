@@ -71,17 +71,20 @@ Go to the **Balance & Tracking** sheet. This sheet includes tables and a graph t
 
 ### 2.3 - Account Table
 
-- View an overview of your accounts (e.g., bank, savings, debt, credit card).
-- Use **cell C7** to select a date and see projected account balances for that day. If left blank, it defaults to today (`=TODAY()` in Excel).
-- When logging a credit card purchase in the **Tracking** table, **cell C13** changes color to indicate a payment is due.
-  - To record a payment, select **'Payment'** as the operation and choose **'Credit Card'** under **'Account'**. The same applies to **Debt**.
-- Use the **Debt** account for upcoming transactions that don’t yet have an assigned payment method. When the date arrives, update it to the appropriate account (e.g., **Bank**, **Cash**, or **Savings**).
+- View a summary of your accounts, including Bank, Savings, Debt, and Credit Card.
+- Use **cell C7** to select a date and view past or future account balances. If left blank, it defaults to today (`=TODAY()` in Excel).
+- When logging a credit card purchase in the **Tracking** table, the corresponding credit card row changes color to indicate a payment is due.
+  - To record a payment, select **'Payment'** as the operation and choose **'Credit Card'** under **'Account'**. The same applies to other liability accounts.
+- The **Account** table is designed with four rows for positive balances (e.g., Bank, Savings) and two for liabilities (e.g., Credit Card).
+  - In the **Data Validation** sheet, you can customize each label (e.g., JPMorgan, Bank of America, Wells Fargo, Amex, Visa, etc.).
 
 ---
 
 ### 2.4 - Tracking Table
 
 - This is the core of the spreadsheet. Enter each financial operation by selecting a category and entering the amount.
+- Transactions are sorted by **date**, not by the order in which they were entered.
+- You can use the filters in the table header to display only the information you want to see.  
 - All other tables and graphs update automatically based on this table.
 - 💡 *Tip: Press the `Tab` key to move between fields and quickly create a new row at the bottom.*
 
